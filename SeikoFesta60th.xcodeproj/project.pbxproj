@@ -7,9 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C5001BAD2245084E0098B634 /* FoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BAC2245084E0098B634 /* FoodViewController.swift */; };
+		C5001BAF2245087E0098B634 /* ExhibitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BAE2245087E0098B634 /* ExhibitionViewController.swift */; };
+		C5001BB1224508CA0098B634 /* PlanningViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB0224508CA0098B634 /* PlanningViewController.swift */; };
+		C5001BB3224508D90098B634 /* TImeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB2224508D90098B634 /* TImeTableViewController.swift */; };
+		C5001BB5224508F30098B634 /* TreasureHuntViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB4224508F30098B634 /* TreasureHuntViewController.swift */; };
+		C5001BB7224509040098B634 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB6224509040098B634 /* MapViewController.swift */; };
+		C5001BB9224509270098B634 /* AccessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB8224509270098B634 /* AccessViewController.swift */; };
+		C5001BBB224509350098B634 /* OthersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BBA224509350098B634 /* OthersViewController.swift */; };
+		C5001BBD224509C80098B634 /* Food.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BBC224509C80098B634 /* Food.storyboard */; };
+		C5001BBF224509DF0098B634 /* Exhibition.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BBE224509DF0098B634 /* Exhibition.storyboard */; };
+		C5001BC1224509EE0098B634 /* Planning.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC0224509EE0098B634 /* Planning.storyboard */; };
+		C5001BC322450A020098B634 /* TimeTable.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC222450A020098B634 /* TimeTable.storyboard */; };
+		C5001BC522450A120098B634 /* TreasureHunt.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC422450A120098B634 /* TreasureHunt.storyboard */; };
+		C5001BC722450A260098B634 /* Map.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC622450A260098B634 /* Map.storyboard */; };
+		C5001BC922450A340098B634 /* Access.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC822450A340098B634 /* Access.storyboard */; };
+		C5001BCB22450A3E0098B634 /* Others.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BCA22450A3E0098B634 /* Others.storyboard */; };
 		C56DDBD62243B8FF009FDE90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBD52243B8FF009FDE90 /* AppDelegate.swift */; };
-		C56DDBD82243B8FF009FDE90 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBD72243B8FF009FDE90 /* ViewController.swift */; };
-		C56DDBDB2243B8FF009FDE90 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C56DDBD92243B8FF009FDE90 /* Main.storyboard */; };
+		C56DDBD82243B8FF009FDE90 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBD72243B8FF009FDE90 /* HomeViewController.swift */; };
+		C56DDBDB2243B8FF009FDE90 /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C56DDBD92243B8FF009FDE90 /* Home.storyboard */; };
 		C56DDBDD2243B900009FDE90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C56DDBDC2243B900009FDE90 /* Assets.xcassets */; };
 		C56DDBE02243B900009FDE90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C56DDBDE2243B900009FDE90 /* LaunchScreen.storyboard */; };
 		C56DDBEB2243B900009FDE90 /* SeikoFesta60thTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBEA2243B900009FDE90 /* SeikoFesta60thTests.swift */; };
@@ -34,10 +50,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C5001BAC2245084E0098B634 /* FoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodViewController.swift; sourceTree = "<group>"; };
+		C5001BAE2245087E0098B634 /* ExhibitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExhibitionViewController.swift; sourceTree = "<group>"; };
+		C5001BB0224508CA0098B634 /* PlanningViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanningViewController.swift; sourceTree = "<group>"; };
+		C5001BB2224508D90098B634 /* TImeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TImeTableViewController.swift; sourceTree = "<group>"; };
+		C5001BB4224508F30098B634 /* TreasureHuntViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreasureHuntViewController.swift; sourceTree = "<group>"; };
+		C5001BB6224509040098B634 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		C5001BB8224509270098B634 /* AccessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessViewController.swift; sourceTree = "<group>"; };
+		C5001BBA224509350098B634 /* OthersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OthersViewController.swift; sourceTree = "<group>"; };
+		C5001BBC224509C80098B634 /* Food.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Food.storyboard; sourceTree = "<group>"; };
+		C5001BBE224509DF0098B634 /* Exhibition.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Exhibition.storyboard; sourceTree = "<group>"; };
+		C5001BC0224509EE0098B634 /* Planning.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Planning.storyboard; sourceTree = "<group>"; };
+		C5001BC222450A020098B634 /* TimeTable.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = TimeTable.storyboard; sourceTree = "<group>"; };
+		C5001BC422450A120098B634 /* TreasureHunt.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = TreasureHunt.storyboard; sourceTree = "<group>"; };
+		C5001BC622450A260098B634 /* Map.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Map.storyboard; sourceTree = "<group>"; };
+		C5001BC822450A340098B634 /* Access.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Access.storyboard; sourceTree = "<group>"; };
+		C5001BCA22450A3E0098B634 /* Others.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Others.storyboard; sourceTree = "<group>"; };
 		C56DDBD22243B8FF009FDE90 /* SeikoFesta60th.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeikoFesta60th.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C56DDBD52243B8FF009FDE90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C56DDBD72243B8FF009FDE90 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		C56DDBDA2243B8FF009FDE90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C56DDBD72243B8FF009FDE90 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		C56DDBDA2243B8FF009FDE90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Home.storyboard; sourceTree = "<group>"; };
 		C56DDBDC2243B900009FDE90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C56DDBDF2243B900009FDE90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C56DDBE12243B900009FDE90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -98,8 +130,24 @@
 			isa = PBXGroup;
 			children = (
 				C56DDBD52243B8FF009FDE90 /* AppDelegate.swift */,
-				C56DDBD72243B8FF009FDE90 /* ViewController.swift */,
-				C56DDBD92243B8FF009FDE90 /* Main.storyboard */,
+				C56DDBD92243B8FF009FDE90 /* Home.storyboard */,
+				C56DDBD72243B8FF009FDE90 /* HomeViewController.swift */,
+				C5001BBC224509C80098B634 /* Food.storyboard */,
+				C5001BAC2245084E0098B634 /* FoodViewController.swift */,
+				C5001BBE224509DF0098B634 /* Exhibition.storyboard */,
+				C5001BAE2245087E0098B634 /* ExhibitionViewController.swift */,
+				C5001BC0224509EE0098B634 /* Planning.storyboard */,
+				C5001BB0224508CA0098B634 /* PlanningViewController.swift */,
+				C5001BC222450A020098B634 /* TimeTable.storyboard */,
+				C5001BB2224508D90098B634 /* TImeTableViewController.swift */,
+				C5001BC422450A120098B634 /* TreasureHunt.storyboard */,
+				C5001BB4224508F30098B634 /* TreasureHuntViewController.swift */,
+				C5001BC622450A260098B634 /* Map.storyboard */,
+				C5001BB6224509040098B634 /* MapViewController.swift */,
+				C5001BC822450A340098B634 /* Access.storyboard */,
+				C5001BB8224509270098B634 /* AccessViewController.swift */,
+				C5001BCA22450A3E0098B634 /* Others.storyboard */,
+				C5001BBA224509350098B634 /* OthersViewController.swift */,
 				C56DDBDC2243B900009FDE90 /* Assets.xcassets */,
 				C56DDBDE2243B900009FDE90 /* LaunchScreen.storyboard */,
 				C56DDBE12243B900009FDE90 /* Info.plist */,
@@ -229,9 +277,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5001BC522450A120098B634 /* TreasureHunt.storyboard in Resources */,
 				C56DDBE02243B900009FDE90 /* LaunchScreen.storyboard in Resources */,
+				C5001BC722450A260098B634 /* Map.storyboard in Resources */,
 				C56DDBDD2243B900009FDE90 /* Assets.xcassets in Resources */,
-				C56DDBDB2243B8FF009FDE90 /* Main.storyboard in Resources */,
+				C5001BC922450A340098B634 /* Access.storyboard in Resources */,
+				C5001BC322450A020098B634 /* TimeTable.storyboard in Resources */,
+				C5001BBD224509C80098B634 /* Food.storyboard in Resources */,
+				C5001BCB22450A3E0098B634 /* Others.storyboard in Resources */,
+				C5001BBF224509DF0098B634 /* Exhibition.storyboard in Resources */,
+				C56DDBDB2243B8FF009FDE90 /* Home.storyboard in Resources */,
+				C5001BC1224509EE0098B634 /* Planning.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +312,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C56DDBD82243B8FF009FDE90 /* ViewController.swift in Sources */,
+				C56DDBD82243B8FF009FDE90 /* HomeViewController.swift in Sources */,
+				C5001BAD2245084E0098B634 /* FoodViewController.swift in Sources */,
+				C5001BB3224508D90098B634 /* TImeTableViewController.swift in Sources */,
 				C56DDBD62243B8FF009FDE90 /* AppDelegate.swift in Sources */,
+				C5001BAF2245087E0098B634 /* ExhibitionViewController.swift in Sources */,
+				C5001BBB224509350098B634 /* OthersViewController.swift in Sources */,
+				C5001BB1224508CA0098B634 /* PlanningViewController.swift in Sources */,
+				C5001BB9224509270098B634 /* AccessViewController.swift in Sources */,
+				C5001BB5224508F30098B634 /* TreasureHuntViewController.swift in Sources */,
+				C5001BB7224509040098B634 /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,12 +357,12 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		C56DDBD92243B8FF009FDE90 /* Main.storyboard */ = {
+		C56DDBD92243B8FF009FDE90 /* Home.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				C56DDBDA2243B8FF009FDE90 /* Base */,
 			);
-			name = Main.storyboard;
+			name = Home.storyboard;
 			sourceTree = "<group>";
 		};
 		C56DDBDE2243B900009FDE90 /* LaunchScreen.storyboard */ = {
