@@ -1,0 +1,649 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C5001BAD2245084E0098B634 /* FoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BAC2245084E0098B634 /* FoodViewController.swift */; };
+		C5001BAF2245087E0098B634 /* ExhibitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BAE2245087E0098B634 /* ExhibitionViewController.swift */; };
+		C5001BB1224508CA0098B634 /* PlanningViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB0224508CA0098B634 /* PlanningViewController.swift */; };
+		C5001BB3224508D90098B634 /* TImeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB2224508D90098B634 /* TImeTableViewController.swift */; };
+		C5001BB5224508F30098B634 /* TreasureHuntViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB4224508F30098B634 /* TreasureHuntViewController.swift */; };
+		C5001BB7224509040098B634 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB6224509040098B634 /* MapViewController.swift */; };
+		C5001BB9224509270098B634 /* AccessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BB8224509270098B634 /* AccessViewController.swift */; };
+		C5001BBB224509350098B634 /* OthersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5001BBA224509350098B634 /* OthersViewController.swift */; };
+		C5001BBD224509C80098B634 /* Food.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BBC224509C80098B634 /* Food.storyboard */; };
+		C5001BBF224509DF0098B634 /* Exhibition.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BBE224509DF0098B634 /* Exhibition.storyboard */; };
+		C5001BC1224509EE0098B634 /* Planning.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC0224509EE0098B634 /* Planning.storyboard */; };
+		C5001BC322450A020098B634 /* TimeTable.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC222450A020098B634 /* TimeTable.storyboard */; };
+		C5001BC522450A120098B634 /* TreasureHunt.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC422450A120098B634 /* TreasureHunt.storyboard */; };
+		C5001BC722450A260098B634 /* Map.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC622450A260098B634 /* Map.storyboard */; };
+		C5001BC922450A340098B634 /* Access.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC822450A340098B634 /* Access.storyboard */; };
+		C5001BCB22450A3E0098B634 /* Others.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BCA22450A3E0098B634 /* Others.storyboard */; };
+		C56DDBD62243B8FF009FDE90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBD52243B8FF009FDE90 /* AppDelegate.swift */; };
+		C56DDBD82243B8FF009FDE90 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBD72243B8FF009FDE90 /* HomeViewController.swift */; };
+		C56DDBDB2243B8FF009FDE90 /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C56DDBD92243B8FF009FDE90 /* Home.storyboard */; };
+		C56DDBDD2243B900009FDE90 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C56DDBDC2243B900009FDE90 /* Assets.xcassets */; };
+		C56DDBE02243B900009FDE90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C56DDBDE2243B900009FDE90 /* LaunchScreen.storyboard */; };
+		C56DDBEB2243B900009FDE90 /* SeikoFesta60thTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBEA2243B900009FDE90 /* SeikoFesta60thTests.swift */; };
+		C56DDBF62243B900009FDE90 /* SeikoFesta60thUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBF52243B900009FDE90 /* SeikoFesta60thUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		C56DDBE72243B900009FDE90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C56DDBCA2243B8FF009FDE90 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C56DDBD12243B8FF009FDE90;
+			remoteInfo = SeikoFesta60th;
+		};
+		C56DDBF22243B900009FDE90 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = C56DDBCA2243B8FF009FDE90 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = C56DDBD12243B8FF009FDE90;
+			remoteInfo = SeikoFesta60th;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		C5001BAC2245084E0098B634 /* FoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodViewController.swift; sourceTree = "<group>"; };
+		C5001BAE2245087E0098B634 /* ExhibitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExhibitionViewController.swift; sourceTree = "<group>"; };
+		C5001BB0224508CA0098B634 /* PlanningViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanningViewController.swift; sourceTree = "<group>"; };
+		C5001BB2224508D90098B634 /* TImeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TImeTableViewController.swift; sourceTree = "<group>"; };
+		C5001BB4224508F30098B634 /* TreasureHuntViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreasureHuntViewController.swift; sourceTree = "<group>"; };
+		C5001BB6224509040098B634 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		C5001BB8224509270098B634 /* AccessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccessViewController.swift; sourceTree = "<group>"; };
+		C5001BBA224509350098B634 /* OthersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OthersViewController.swift; sourceTree = "<group>"; };
+		C5001BBC224509C80098B634 /* Food.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Food.storyboard; sourceTree = "<group>"; };
+		C5001BBE224509DF0098B634 /* Exhibition.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Exhibition.storyboard; sourceTree = "<group>"; };
+		C5001BC0224509EE0098B634 /* Planning.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Planning.storyboard; sourceTree = "<group>"; };
+		C5001BC222450A020098B634 /* TimeTable.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = TimeTable.storyboard; sourceTree = "<group>"; };
+		C5001BC422450A120098B634 /* TreasureHunt.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = TreasureHunt.storyboard; sourceTree = "<group>"; };
+		C5001BC622450A260098B634 /* Map.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Map.storyboard; sourceTree = "<group>"; };
+		C5001BC822450A340098B634 /* Access.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Access.storyboard; sourceTree = "<group>"; };
+		C5001BCA22450A3E0098B634 /* Others.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Others.storyboard; sourceTree = "<group>"; };
+		C56DDBD22243B8FF009FDE90 /* SeikoFesta60th.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeikoFesta60th.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C56DDBD52243B8FF009FDE90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C56DDBD72243B8FF009FDE90 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		C56DDBDA2243B8FF009FDE90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Home.storyboard; sourceTree = "<group>"; };
+		C56DDBDC2243B900009FDE90 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C56DDBDF2243B900009FDE90 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C56DDBE12243B900009FDE90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C56DDBE62243B900009FDE90 /* SeikoFesta60thTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeikoFesta60thTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C56DDBEA2243B900009FDE90 /* SeikoFesta60thTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeikoFesta60thTests.swift; sourceTree = "<group>"; };
+		C56DDBEC2243B900009FDE90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C56DDBF12243B900009FDE90 /* SeikoFesta60thUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeikoFesta60thUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		C56DDBF52243B900009FDE90 /* SeikoFesta60thUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeikoFesta60thUITests.swift; sourceTree = "<group>"; };
+		C56DDBF72243B900009FDE90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C56DDBCF2243B8FF009FDE90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C56DDBE32243B900009FDE90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C56DDBEE2243B900009FDE90 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C56DDBC92243B8FF009FDE90 = {
+			isa = PBXGroup;
+			children = (
+				C56DDBD42243B8FF009FDE90 /* SeikoFesta60th */,
+				C56DDBE92243B900009FDE90 /* SeikoFesta60thTests */,
+				C56DDBF42243B900009FDE90 /* SeikoFesta60thUITests */,
+				C56DDBD32243B8FF009FDE90 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C56DDBD32243B8FF009FDE90 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C56DDBD22243B8FF009FDE90 /* SeikoFesta60th.app */,
+				C56DDBE62243B900009FDE90 /* SeikoFesta60thTests.xctest */,
+				C56DDBF12243B900009FDE90 /* SeikoFesta60thUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C56DDBD42243B8FF009FDE90 /* SeikoFesta60th */ = {
+			isa = PBXGroup;
+			children = (
+				C56DDBD52243B8FF009FDE90 /* AppDelegate.swift */,
+				C56DDBD92243B8FF009FDE90 /* Home.storyboard */,
+				C56DDBD72243B8FF009FDE90 /* HomeViewController.swift */,
+				C5001BBC224509C80098B634 /* Food.storyboard */,
+				C5001BAC2245084E0098B634 /* FoodViewController.swift */,
+				C5001BBE224509DF0098B634 /* Exhibition.storyboard */,
+				C5001BAE2245087E0098B634 /* ExhibitionViewController.swift */,
+				C5001BC0224509EE0098B634 /* Planning.storyboard */,
+				C5001BB0224508CA0098B634 /* PlanningViewController.swift */,
+				C5001BC222450A020098B634 /* TimeTable.storyboard */,
+				C5001BB2224508D90098B634 /* TImeTableViewController.swift */,
+				C5001BC422450A120098B634 /* TreasureHunt.storyboard */,
+				C5001BB4224508F30098B634 /* TreasureHuntViewController.swift */,
+				C5001BC622450A260098B634 /* Map.storyboard */,
+				C5001BB6224509040098B634 /* MapViewController.swift */,
+				C5001BC822450A340098B634 /* Access.storyboard */,
+				C5001BB8224509270098B634 /* AccessViewController.swift */,
+				C5001BCA22450A3E0098B634 /* Others.storyboard */,
+				C5001BBA224509350098B634 /* OthersViewController.swift */,
+				C56DDBDC2243B900009FDE90 /* Assets.xcassets */,
+				C56DDBDE2243B900009FDE90 /* LaunchScreen.storyboard */,
+				C56DDBE12243B900009FDE90 /* Info.plist */,
+			);
+			path = SeikoFesta60th;
+			sourceTree = "<group>";
+		};
+		C56DDBE92243B900009FDE90 /* SeikoFesta60thTests */ = {
+			isa = PBXGroup;
+			children = (
+				C56DDBEA2243B900009FDE90 /* SeikoFesta60thTests.swift */,
+				C56DDBEC2243B900009FDE90 /* Info.plist */,
+			);
+			path = SeikoFesta60thTests;
+			sourceTree = "<group>";
+		};
+		C56DDBF42243B900009FDE90 /* SeikoFesta60thUITests */ = {
+			isa = PBXGroup;
+			children = (
+				C56DDBF52243B900009FDE90 /* SeikoFesta60thUITests.swift */,
+				C56DDBF72243B900009FDE90 /* Info.plist */,
+			);
+			path = SeikoFesta60thUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C56DDBD12243B8FF009FDE90 /* SeikoFesta60th */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C56DDBFA2243B900009FDE90 /* Build configuration list for PBXNativeTarget "SeikoFesta60th" */;
+			buildPhases = (
+				C56DDBCE2243B8FF009FDE90 /* Sources */,
+				C56DDBCF2243B8FF009FDE90 /* Frameworks */,
+				C56DDBD02243B8FF009FDE90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SeikoFesta60th;
+			productName = SeikoFesta60th;
+			productReference = C56DDBD22243B8FF009FDE90 /* SeikoFesta60th.app */;
+			productType = "com.apple.product-type.application";
+		};
+		C56DDBE52243B900009FDE90 /* SeikoFesta60thTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C56DDBFD2243B900009FDE90 /* Build configuration list for PBXNativeTarget "SeikoFesta60thTests" */;
+			buildPhases = (
+				C56DDBE22243B900009FDE90 /* Sources */,
+				C56DDBE32243B900009FDE90 /* Frameworks */,
+				C56DDBE42243B900009FDE90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C56DDBE82243B900009FDE90 /* PBXTargetDependency */,
+			);
+			name = SeikoFesta60thTests;
+			productName = SeikoFesta60thTests;
+			productReference = C56DDBE62243B900009FDE90 /* SeikoFesta60thTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		C56DDBF02243B900009FDE90 /* SeikoFesta60thUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C56DDC002243B900009FDE90 /* Build configuration list for PBXNativeTarget "SeikoFesta60thUITests" */;
+			buildPhases = (
+				C56DDBED2243B900009FDE90 /* Sources */,
+				C56DDBEE2243B900009FDE90 /* Frameworks */,
+				C56DDBEF2243B900009FDE90 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C56DDBF32243B900009FDE90 /* PBXTargetDependency */,
+			);
+			name = SeikoFesta60thUITests;
+			productName = SeikoFesta60thUITests;
+			productReference = C56DDBF12243B900009FDE90 /* SeikoFesta60thUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C56DDBCA2243B8FF009FDE90 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "剱物蒼太";
+				TargetAttributes = {
+					C56DDBD12243B8FF009FDE90 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+					C56DDBE52243B900009FDE90 = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = C56DDBD12243B8FF009FDE90;
+					};
+					C56DDBF02243B900009FDE90 = {
+						CreatedOnToolsVersion = 10.1;
+						TestTargetID = C56DDBD12243B8FF009FDE90;
+					};
+				};
+			};
+			buildConfigurationList = C56DDBCD2243B8FF009FDE90 /* Build configuration list for PBXProject "SeikoFesta60th" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C56DDBC92243B8FF009FDE90;
+			productRefGroup = C56DDBD32243B8FF009FDE90 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C56DDBD12243B8FF009FDE90 /* SeikoFesta60th */,
+				C56DDBE52243B900009FDE90 /* SeikoFesta60thTests */,
+				C56DDBF02243B900009FDE90 /* SeikoFesta60thUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C56DDBD02243B8FF009FDE90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C5001BC522450A120098B634 /* TreasureHunt.storyboard in Resources */,
+				C56DDBE02243B900009FDE90 /* LaunchScreen.storyboard in Resources */,
+				C5001BC722450A260098B634 /* Map.storyboard in Resources */,
+				C56DDBDD2243B900009FDE90 /* Assets.xcassets in Resources */,
+				C5001BC922450A340098B634 /* Access.storyboard in Resources */,
+				C5001BC322450A020098B634 /* TimeTable.storyboard in Resources */,
+				C5001BBD224509C80098B634 /* Food.storyboard in Resources */,
+				C5001BCB22450A3E0098B634 /* Others.storyboard in Resources */,
+				C5001BBF224509DF0098B634 /* Exhibition.storyboard in Resources */,
+				C56DDBDB2243B8FF009FDE90 /* Home.storyboard in Resources */,
+				C5001BC1224509EE0098B634 /* Planning.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C56DDBE42243B900009FDE90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C56DDBEF2243B900009FDE90 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C56DDBCE2243B8FF009FDE90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C56DDBD82243B8FF009FDE90 /* HomeViewController.swift in Sources */,
+				C5001BAD2245084E0098B634 /* FoodViewController.swift in Sources */,
+				C5001BB3224508D90098B634 /* TImeTableViewController.swift in Sources */,
+				C56DDBD62243B8FF009FDE90 /* AppDelegate.swift in Sources */,
+				C5001BAF2245087E0098B634 /* ExhibitionViewController.swift in Sources */,
+				C5001BBB224509350098B634 /* OthersViewController.swift in Sources */,
+				C5001BB1224508CA0098B634 /* PlanningViewController.swift in Sources */,
+				C5001BB9224509270098B634 /* AccessViewController.swift in Sources */,
+				C5001BB5224508F30098B634 /* TreasureHuntViewController.swift in Sources */,
+				C5001BB7224509040098B634 /* MapViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C56DDBE22243B900009FDE90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C56DDBEB2243B900009FDE90 /* SeikoFesta60thTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C56DDBED2243B900009FDE90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C56DDBF62243B900009FDE90 /* SeikoFesta60thUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C56DDBE82243B900009FDE90 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C56DDBD12243B8FF009FDE90 /* SeikoFesta60th */;
+			targetProxy = C56DDBE72243B900009FDE90 /* PBXContainerItemProxy */;
+		};
+		C56DDBF32243B900009FDE90 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = C56DDBD12243B8FF009FDE90 /* SeikoFesta60th */;
+			targetProxy = C56DDBF22243B900009FDE90 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		C56DDBD92243B8FF009FDE90 /* Home.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C56DDBDA2243B8FF009FDE90 /* Base */,
+			);
+			name = Home.storyboard;
+			sourceTree = "<group>";
+		};
+		C56DDBDE2243B900009FDE90 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C56DDBDF2243B900009FDE90 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C56DDBF82243B900009FDE90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		C56DDBF92243B900009FDE90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C56DDBFB2243B900009FDE90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SeikoFesta60th/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.SeikoFesta60th;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		C56DDBFC2243B900009FDE90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SeikoFesta60th/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.SeikoFesta60th;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		C56DDBFE2243B900009FDE90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SeikoFesta60thTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.SeikoFesta60thTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SeikoFesta60th.app/SeikoFesta60th";
+			};
+			name = Debug;
+		};
+		C56DDBFF2243B900009FDE90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SeikoFesta60thTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.SeikoFesta60thTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SeikoFesta60th.app/SeikoFesta60th";
+			};
+			name = Release;
+		};
+		C56DDC012243B900009FDE90 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SeikoFesta60thUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.SeikoFesta60thUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SeikoFesta60th;
+			};
+			name = Debug;
+		};
+		C56DDC022243B900009FDE90 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = SeikoFesta60thUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.litech.SeikoFesta60thUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = SeikoFesta60th;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C56DDBCD2243B8FF009FDE90 /* Build configuration list for PBXProject "SeikoFesta60th" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C56DDBF82243B900009FDE90 /* Debug */,
+				C56DDBF92243B900009FDE90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C56DDBFA2243B900009FDE90 /* Build configuration list for PBXNativeTarget "SeikoFesta60th" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C56DDBFB2243B900009FDE90 /* Debug */,
+				C56DDBFC2243B900009FDE90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C56DDBFD2243B900009FDE90 /* Build configuration list for PBXNativeTarget "SeikoFesta60thTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C56DDBFE2243B900009FDE90 /* Debug */,
+				C56DDBFF2243B900009FDE90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C56DDC002243B900009FDE90 /* Build configuration list for PBXNativeTarget "SeikoFesta60thUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C56DDC012243B900009FDE90 /* Debug */,
+				C56DDC022243B900009FDE90 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C56DDBCA2243B8FF009FDE90 /* Project object */;
+}
