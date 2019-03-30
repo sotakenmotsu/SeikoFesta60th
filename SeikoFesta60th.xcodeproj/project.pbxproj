@@ -30,6 +30,8 @@
 		C56DDBE02243B900009FDE90 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C56DDBDE2243B900009FDE90 /* LaunchScreen.storyboard */; };
 		C56DDBEB2243B900009FDE90 /* SeikoFesta60thTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBEA2243B900009FDE90 /* SeikoFesta60thTests.swift */; };
 		C56DDBF62243B900009FDE90 /* SeikoFesta60thUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBF52243B900009FDE90 /* SeikoFesta60thUITests.swift */; };
+		C58C1AE0224FB62000A6FD9B /* GiftsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C58C1ADF224FB62000A6FD9B /* GiftsViewController.swift */; };
+		C5F18BAA224CB184001B8124 /* QuizsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F18BA9224CB184001B8124 /* QuizsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +81,8 @@
 		C56DDBF12243B900009FDE90 /* SeikoFesta60thUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SeikoFesta60thUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C56DDBF52243B900009FDE90 /* SeikoFesta60thUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeikoFesta60thUITests.swift; sourceTree = "<group>"; };
 		C56DDBF72243B900009FDE90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C58C1ADF224FB62000A6FD9B /* GiftsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiftsViewController.swift; sourceTree = "<group>"; };
+		C5F18BA9224CB184001B8124 /* QuizsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +146,8 @@
 				C5001BB2224508D90098B634 /* TImeTableViewController.swift */,
 				C5001BC422450A120098B634 /* TreasureHunt.storyboard */,
 				C5001BB4224508F30098B634 /* TreasureHuntViewController.swift */,
+				C5F18BA9224CB184001B8124 /* QuizsViewController.swift */,
+				C58C1ADF224FB62000A6FD9B /* GiftsViewController.swift */,
 				C5001BC622450A260098B634 /* Map.storyboard */,
 				C5001BB6224509040098B634 /* MapViewController.swift */,
 				C5001BC822450A340098B634 /* Access.storyboard */,
@@ -314,7 +320,9 @@
 			files = (
 				C56DDBD82243B8FF009FDE90 /* HomeViewController.swift in Sources */,
 				C5001BAD2245084E0098B634 /* FoodViewController.swift in Sources */,
+				C5F18BAA224CB184001B8124 /* QuizsViewController.swift in Sources */,
 				C5001BB3224508D90098B634 /* TImeTableViewController.swift in Sources */,
+				C58C1AE0224FB62000A6FD9B /* GiftsViewController.swift in Sources */,
 				C56DDBD62243B8FF009FDE90 /* AppDelegate.swift in Sources */,
 				C5001BAF2245087E0098B634 /* ExhibitionViewController.swift in Sources */,
 				C5001BBB224509350098B634 /* OthersViewController.swift in Sources */,
@@ -497,6 +505,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JSD2CKK4KF;
 				INFOPLIST_FILE = SeikoFesta60th/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -505,7 +514,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.litech.SeikoFesta60th;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -514,6 +523,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JSD2CKK4KF;
 				INFOPLIST_FILE = SeikoFesta60th/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -522,7 +532,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.litech.SeikoFesta60th;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
