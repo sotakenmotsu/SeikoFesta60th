@@ -31,6 +31,13 @@
 		C56DDBEB2243B900009FDE90 /* SeikoFesta60thTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBEA2243B900009FDE90 /* SeikoFesta60thTests.swift */; };
 		C56DDBF62243B900009FDE90 /* SeikoFesta60thUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBF52243B900009FDE90 /* SeikoFesta60thUITests.swift */; };
 		C58C1AE0224FB62000A6FD9B /* GiftsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C58C1ADF224FB62000A6FD9B /* GiftsViewController.swift */; };
+		C58C1AE2224FC80700A6FD9B /* Q1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C58C1AE1224FC80700A6FD9B /* Q1ViewController.swift */; };
+		C58C1AE4224FC92F00A6FD9B /* Q1.png in Resources */ = {isa = PBXBuildFile; fileRef = C58C1AE3224FC92F00A6FD9B /* Q1.png */; };
+		C58C1AEA224FCC8D00A6FD9B /* roulette_normal.png in Resources */ = {isa = PBXBuildFile; fileRef = C58C1AE6224FCC8D00A6FD9B /* roulette_normal.png */; };
+		C58C1AEB224FCC8D00A6FD9B /* down-arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = C58C1AE7224FCC8D00A6FD9B /* down-arrow.png */; };
+		C58C1AEC224FCC8D00A6FD9B /* roulette_silver.png in Resources */ = {isa = PBXBuildFile; fileRef = C58C1AE8224FCC8D00A6FD9B /* roulette_silver.png */; };
+		C58C1AED224FCC8D00A6FD9B /* roulette_gold.png in Resources */ = {isa = PBXBuildFile; fileRef = C58C1AE9224FCC8D00A6FD9B /* roulette_gold.png */; };
+		C58C1AEF224FCCD500A6FD9B /* NormalRouletteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C58C1AEE224FCCD500A6FD9B /* NormalRouletteViewController.swift */; };
 		C5F18BAA224CB184001B8124 /* QuizsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C5F18BA9224CB184001B8124 /* QuizsViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -82,6 +89,13 @@
 		C56DDBF52243B900009FDE90 /* SeikoFesta60thUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SeikoFesta60thUITests.swift; sourceTree = "<group>"; };
 		C56DDBF72243B900009FDE90 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C58C1ADF224FB62000A6FD9B /* GiftsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiftsViewController.swift; sourceTree = "<group>"; };
+		C58C1AE1224FC80700A6FD9B /* Q1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Q1ViewController.swift; sourceTree = "<group>"; };
+		C58C1AE3224FC92F00A6FD9B /* Q1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Q1.png; path = "../../トレハン謎解き画像集/Q1.png"; sourceTree = "<group>"; };
+		C58C1AE6224FCC8D00A6FD9B /* roulette_normal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roulette_normal.png; sourceTree = "<group>"; };
+		C58C1AE7224FCC8D00A6FD9B /* down-arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "down-arrow.png"; sourceTree = "<group>"; };
+		C58C1AE8224FCC8D00A6FD9B /* roulette_silver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roulette_silver.png; sourceTree = "<group>"; };
+		C58C1AE9224FCC8D00A6FD9B /* roulette_gold.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = roulette_gold.png; sourceTree = "<group>"; };
+		C58C1AEE224FCCD500A6FD9B /* NormalRouletteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NormalRouletteViewController.swift; sourceTree = "<group>"; };
 		C5F18BA9224CB184001B8124 /* QuizsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -147,6 +161,8 @@
 				C5001BC422450A120098B634 /* TreasureHunt.storyboard */,
 				C5001BB4224508F30098B634 /* TreasureHuntViewController.swift */,
 				C5F18BA9224CB184001B8124 /* QuizsViewController.swift */,
+				C58C1AEE224FCCD500A6FD9B /* NormalRouletteViewController.swift */,
+				C58C1AE1224FC80700A6FD9B /* Q1ViewController.swift */,
 				C58C1ADF224FB62000A6FD9B /* GiftsViewController.swift */,
 				C5001BC622450A260098B634 /* Map.storyboard */,
 				C5001BB6224509040098B634 /* MapViewController.swift */,
@@ -157,6 +173,8 @@
 				C56DDBDC2243B900009FDE90 /* Assets.xcassets */,
 				C56DDBDE2243B900009FDE90 /* LaunchScreen.storyboard */,
 				C56DDBE12243B900009FDE90 /* Info.plist */,
+				C58C1AE3224FC92F00A6FD9B /* Q1.png */,
+				C58C1AE5224FCC8D00A6FD9B /* ルーレット素材 */,
 			);
 			path = SeikoFesta60th;
 			sourceTree = "<group>";
@@ -177,6 +195,18 @@
 				C56DDBF72243B900009FDE90 /* Info.plist */,
 			);
 			path = SeikoFesta60thUITests;
+			sourceTree = "<group>";
+		};
+		C58C1AE5224FCC8D00A6FD9B /* ルーレット素材 */ = {
+			isa = PBXGroup;
+			children = (
+				C58C1AE6224FCC8D00A6FD9B /* roulette_normal.png */,
+				C58C1AE7224FCC8D00A6FD9B /* down-arrow.png */,
+				C58C1AE8224FCC8D00A6FD9B /* roulette_silver.png */,
+				C58C1AE9224FCC8D00A6FD9B /* roulette_gold.png */,
+			);
+			name = "ルーレット素材";
+			path = "../../SeikoFesta60th_material/ルーレット素材";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -286,14 +316,19 @@
 				C5001BC522450A120098B634 /* TreasureHunt.storyboard in Resources */,
 				C56DDBE02243B900009FDE90 /* LaunchScreen.storyboard in Resources */,
 				C5001BC722450A260098B634 /* Map.storyboard in Resources */,
+				C58C1AE4224FC92F00A6FD9B /* Q1.png in Resources */,
 				C56DDBDD2243B900009FDE90 /* Assets.xcassets in Resources */,
 				C5001BC922450A340098B634 /* Access.storyboard in Resources */,
 				C5001BC322450A020098B634 /* TimeTable.storyboard in Resources */,
+				C58C1AEC224FCC8D00A6FD9B /* roulette_silver.png in Resources */,
 				C5001BBD224509C80098B634 /* Food.storyboard in Resources */,
 				C5001BCB22450A3E0098B634 /* Others.storyboard in Resources */,
 				C5001BBF224509DF0098B634 /* Exhibition.storyboard in Resources */,
 				C56DDBDB2243B8FF009FDE90 /* Home.storyboard in Resources */,
+				C58C1AEA224FCC8D00A6FD9B /* roulette_normal.png in Resources */,
+				C58C1AED224FCC8D00A6FD9B /* roulette_gold.png in Resources */,
 				C5001BC1224509EE0098B634 /* Planning.storyboard in Resources */,
+				C58C1AEB224FCC8D00A6FD9B /* down-arrow.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -323,7 +358,9 @@
 				C5F18BAA224CB184001B8124 /* QuizsViewController.swift in Sources */,
 				C5001BB3224508D90098B634 /* TImeTableViewController.swift in Sources */,
 				C58C1AE0224FB62000A6FD9B /* GiftsViewController.swift in Sources */,
+				C58C1AE2224FC80700A6FD9B /* Q1ViewController.swift in Sources */,
 				C56DDBD62243B8FF009FDE90 /* AppDelegate.swift in Sources */,
+				C58C1AEF224FCCD500A6FD9B /* NormalRouletteViewController.swift in Sources */,
 				C5001BAF2245087E0098B634 /* ExhibitionViewController.swift in Sources */,
 				C5001BBB224509350098B634 /* OthersViewController.swift in Sources */,
 				C5001BB1224508CA0098B634 /* PlanningViewController.swift in Sources */,
