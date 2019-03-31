@@ -9,7 +9,9 @@
 import UIKit
 
 class ExhibitionViewController: UIViewController {
-
+    @IBOutlet var 階数別展示一覧: UIScrollView!    
+    @IBOutlet var ５０音順展示一覧: UIScrollView!
+    @IBOutlet var ジャンル別展示一覧: UIScrollView!
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -20,7 +22,6 @@ class ExhibitionViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
     /*
     // MARK: - Navigation
 
