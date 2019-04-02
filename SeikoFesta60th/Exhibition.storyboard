@@ -39,26 +39,28 @@
                                 </attributedString>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <segmentedControl opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="O4r-q5-Zgh">
-                                <rect key="frame" x="76" y="162" width="223" height="28"/>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="O4r-q5-Zgh">
+                                <rect key="frame" x="76" y="137" width="223" height="28"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="27" id="Gxf-29-aYQ"/>
                                     <constraint firstAttribute="width" constant="223" id="JO6-ES-flM"/>
                                 </constraints>
                                 <segments>
                                     <segment title="フロア"/>
-                                    <segment title="50音順"/>
-                                    <segment title="ジャンル"/>
+                                    <segment title="名前順"/>
                                 </segments>
+                                <connections>
+                                    <action selector="Itiranchange:" destination="aSj-YM-Us6" eventType="valueChanged" id="BLx-dI-TuE"/>
+                                </connections>
                             </segmentedControl>
                         </subviews>
                         <color key="backgroundColor" white="0.94999999999999996" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="O4r-q5-Zgh" firstAttribute="top" secondItem="gYM-r1-WFc" secondAttribute="bottom" id="4EV-pv-vXZ"/>
+                            <constraint firstItem="O4r-q5-Zgh" firstAttribute="top" secondItem="gYM-r1-WFc" secondAttribute="bottom" constant="8" id="4EV-pv-vXZ"/>
                             <constraint firstItem="gYM-r1-WFc" firstAttribute="leading" secondItem="kS6-y4-iqK" secondAttribute="leading" id="K3M-n4-4A9"/>
                             <constraint firstItem="gYM-r1-WFc" firstAttribute="top" secondItem="kS6-y4-iqK" secondAttribute="top" id="Pf4-gy-2y6"/>
                             <constraint firstItem="O4r-q5-Zgh" firstAttribute="centerX" secondItem="CN5-ML-x4M" secondAttribute="centerX" id="Tql-sf-YEG"/>
-                            <constraint firstItem="O4r-q5-Zgh" firstAttribute="top" secondItem="gYM-r1-WFc" secondAttribute="bottom" id="pup-F4-GE9"/>
+                            <constraint firstItem="O4r-q5-Zgh" firstAttribute="top" secondItem="gYM-r1-WFc" secondAttribute="bottom" constant="8" id="pup-F4-GE9"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="kS6-y4-iqK"/>
                     </view>
@@ -77,7 +79,7 @@
                     <connections>
                         <outlet property="Aiueo" destination="9Sy-67-YPa" id="HV9-Lz-WuB"/>
                         <outlet property="Floor" destination="zpY-5S-nGr" id="BPv-ec-1KN"/>
-                        <outlet property="Sort" destination="BJz-jM-pgI" id="8AC-qq-yNy"/>
+                        <outlet property="Kirikae" destination="O4r-q5-Zgh" id="M5P-00-lJx"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vgq-CG-DAV" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -2272,26 +2274,6 @@
                         <constraint firstAttribute="bottom" secondItem="h3r-50-sIN" secondAttribute="bottom" constant="20" symbolic="YES" id="i3Y-6b-oyd"/>
                     </constraints>
                     <viewLayoutGuide key="safeArea" id="hvi-qh-bF5"/>
-                </scrollView>
-                <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" id="BJz-jM-pgI" userLabel="sort">
-                    <rect key="frame" x="0.0" y="0.0" width="375" height="508"/>
-                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    <subviews>
-                        <view contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ShH-Uq-X4P">
-                            <rect key="frame" x="0.0" y="0.0" width="375" height="989"/>
-                            <color key="backgroundColor" white="0.94999999999999996" alpha="1" colorSpace="calibratedWhite"/>
-                            <constraints>
-                                <constraint firstAttribute="width" constant="375" id="nyz-Jz-8yG"/>
-                            </constraints>
-                        </view>
-                    </subviews>
-                    <constraints>
-                        <constraint firstAttribute="trailing" secondItem="ShH-Uq-X4P" secondAttribute="trailing" id="9CL-mV-MvV"/>
-                        <constraint firstItem="ShH-Uq-X4P" firstAttribute="top" secondItem="BJz-jM-pgI" secondAttribute="top" id="DQ7-f4-i9w"/>
-                        <constraint firstItem="ShH-Uq-X4P" firstAttribute="leading" secondItem="BJz-jM-pgI" secondAttribute="leading" id="ZLH-8V-2cj"/>
-                        <constraint firstAttribute="bottom" secondItem="ShH-Uq-X4P" secondAttribute="bottom" id="mzM-hE-5zd"/>
-                    </constraints>
-                    <viewLayoutGuide key="safeArea" id="ljI-js-6bS"/>
                 </scrollView>
             </objects>
             <point key="canvasLocation" x="2994.4000000000001" y="69.715142428785612"/>

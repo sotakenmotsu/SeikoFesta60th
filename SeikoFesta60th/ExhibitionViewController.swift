@@ -9,27 +9,41 @@
 import UIKit
 
 class ExhibitionViewController: UIViewController {
-    @IBOutlet var 階数別展示一覧: UIScrollView!    
-    @IBOutlet var ５０音順展示一覧: UIScrollView!
-    @IBOutlet var ジャンル別展示一覧: UIScrollView!
+    
+    @IBOutlet weak var Kirikae: UISegmentedControl!
+    @IBOutlet var Floor: UIScrollView!
+    @IBOutlet var Aiueo: UIScrollView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-
-        // Do any additional setup after loading the view.
+        //階数別と50音順画面のフレームを取得
+        super.didReceiveMemoryWarning()
+        Floor.frame = CGRect(x: 0,y: Kirikae.frame.minY + Kirikae.frame.height,
+                             width: self.view.frame.width,
+                             height: (self.view.frame.height - Kirikae.frame.minY))
+        Aiueo.frame = CGRect(x: 0,y: Kirikae.frame.minY + Kirikae.frame.height,
+                             width: self.view.frame.width,
+                             height: (self.view.frame.height - Kirikae.frame.minY))
+        //デフォルトの表示
+        self.view.addSubview(Floor)
     }
     
     override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destination.
-        // Pass the selected object to the new view controller.
+   //以下切り替えの定義
+    func addFloor() {
+        Aiueo.removeFromSuperview()
+        self.view.addSubview(Floor)
     }
-    */
-
+    func addAiueo() {
+        Floor.removeFromSuperview()
+        self.view.addSubview(Aiueo)
+    }
+    @IBAction func Itiranchange(_ sender: UISegmentedControl) {
+        switch sender.selectedSegmentIndex {
+        case 0: addFloor()
+        case 1: addAiueo()
+        default: addFloor()
+        }
+    }
 }
