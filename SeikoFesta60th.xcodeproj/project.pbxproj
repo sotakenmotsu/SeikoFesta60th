@@ -23,6 +23,11 @@
 		C5001BC722450A260098B634 /* Map.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC622450A260098B634 /* Map.storyboard */; };
 		C5001BC922450A340098B634 /* Access.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BC822450A340098B634 /* Access.storyboard */; };
 		C5001BCB22450A3E0098B634 /* Others.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C5001BCA22450A3E0098B634 /* Others.storyboard */; };
+		C5315A802254EC0D008256F3 /* quiizbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = C5315A7C2254EC0D008256F3 /* quiizbutton.png */; };
+		C5315A812254EC0D008256F3 /* giftedbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = C5315A7D2254EC0D008256F3 /* giftedbutton.png */; };
+		C5315A822254EC0D008256F3 /* pointbar.png in Resources */ = {isa = PBXBuildFile; fileRef = C5315A7E2254EC0D008256F3 /* pointbar.png */; };
+		C5315A832254EC0D008256F3 /* giftbutton.png in Resources */ = {isa = PBXBuildFile; fileRef = C5315A7F2254EC0D008256F3 /* giftbutton.png */; };
+		C5315A852254F050008256F3 /* redcircle.png in Resources */ = {isa = PBXBuildFile; fileRef = C5315A842254F050008256F3 /* redcircle.png */; };
 		C56DDBD62243B8FF009FDE90 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBD52243B8FF009FDE90 /* AppDelegate.swift */; };
 		C56DDBD82243B8FF009FDE90 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C56DDBD72243B8FF009FDE90 /* HomeViewController.swift */; };
 		C56DDBDB2243B8FF009FDE90 /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C56DDBD92243B8FF009FDE90 /* Home.storyboard */; };
@@ -100,6 +105,11 @@
 		C5315A782254E97B008256F3 /* Q13_hint_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Q13_hint_2.png; sourceTree = "<group>"; };
 		C5315A792254E97B008256F3 /* Q5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Q5.png; sourceTree = "<group>"; };
 		C5315A7A2254E97C008256F3 /* Q7_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Q7_2.png; sourceTree = "<group>"; };
+		C5315A7C2254EC0D008256F3 /* quiizbutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quiizbutton.png; sourceTree = "<group>"; };
+		C5315A7D2254EC0D008256F3 /* giftedbutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = giftedbutton.png; sourceTree = "<group>"; };
+		C5315A7E2254EC0D008256F3 /* pointbar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pointbar.png; sourceTree = "<group>"; };
+		C5315A7F2254EC0D008256F3 /* giftbutton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = giftbutton.png; sourceTree = "<group>"; };
+		C5315A842254F050008256F3 /* redcircle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redcircle.png; sourceTree = "<group>"; };
 		C56DDBD22243B8FF009FDE90 /* SeikoFesta60th.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeikoFesta60th.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C56DDBD52243B8FF009FDE90 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C56DDBD72243B8FF009FDE90 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -151,6 +161,7 @@
 		C5315A602254E958008256F3 /* トレハン謎解き素材 */ = {
 			isa = PBXGroup;
 			children = (
+				C5315A7B2254EC0D008256F3 /* トレハンボタン類 */,
 				C5315A632254E979008256F3 /* Q13_hint_3.png */,
 				C5315A7A2254E97C008256F3 /* Q7_2.png */,
 				C5315A682254E97A008256F3 /* Q2_hint.png */,
@@ -179,6 +190,19 @@
 				C5315A742254E97B008256F3 /* Q7_hint.png */,
 			);
 			path = "トレハン謎解き素材";
+			sourceTree = "<group>";
+		};
+		C5315A7B2254EC0D008256F3 /* トレハンボタン類 */ = {
+			isa = PBXGroup;
+			children = (
+				C5315A7C2254EC0D008256F3 /* quiizbutton.png */,
+				C5315A7D2254EC0D008256F3 /* giftedbutton.png */,
+				C5315A7E2254EC0D008256F3 /* pointbar.png */,
+				C5315A7F2254EC0D008256F3 /* giftbutton.png */,
+				C5315A842254F050008256F3 /* redcircle.png */,
+			);
+			name = "トレハンボタン類";
+			path = "../../../トレハンボタン類";
 			sourceTree = "<group>";
 		};
 		C56DDBC92243B8FF009FDE90 = {
@@ -371,11 +395,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				C5001BC522450A120098B634 /* TreasureHunt.storyboard in Resources */,
+				C5315A822254EC0D008256F3 /* pointbar.png in Resources */,
+				C5315A802254EC0D008256F3 /* quiizbutton.png in Resources */,
 				C56DDBE02243B900009FDE90 /* LaunchScreen.storyboard in Resources */,
 				C5001BC722450A260098B634 /* Map.storyboard in Resources */,
 				C56DDBDD2243B900009FDE90 /* Assets.xcassets in Resources */,
 				C5001BC922450A340098B634 /* Access.storyboard in Resources */,
 				C5001BC322450A020098B634 /* TimeTable.storyboard in Resources */,
+				C5315A812254EC0D008256F3 /* giftedbutton.png in Resources */,
+				C5315A852254F050008256F3 /* redcircle.png in Resources */,
 				C58C1AEC224FCC8D00A6FD9B /* roulette_silver.png in Resources */,
 				C5001BBD224509C80098B634 /* Food.storyboard in Resources */,
 				C5001BCB22450A3E0098B634 /* Others.storyboard in Resources */,
@@ -383,6 +411,7 @@
 				C56DDBDB2243B8FF009FDE90 /* Home.storyboard in Resources */,
 				C58C1AEA224FCC8D00A6FD9B /* roulette_normal.png in Resources */,
 				C58C1AED224FCC8D00A6FD9B /* roulette_gold.png in Resources */,
+				C5315A832254EC0D008256F3 /* giftbutton.png in Resources */,
 				C5001BC1224509EE0098B634 /* Planning.storyboard in Resources */,
 				C58C1AEB224FCC8D00A6FD9B /* down-arrow.png in Resources */,
 			);
