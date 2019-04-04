@@ -176,7 +176,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="Cxy-8W-NYZ"/>
                                                         <constraint firstAttribute="width" constant="90" id="l63-1h-rlo"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="野球盤.png"/>
+                                                    <state key="normal" title="Button" image="野球盤丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="リアル野球盤" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tQa-Od-Lhh" userLabel="real baseball ">
                                                     <rect key="frame" x="232" y="90" width="90" height="20"/>
@@ -229,7 +229,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="8by-zF-gvk"/>
                                                         <constraint firstAttribute="height" constant="90" id="guV-dx-mGy"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="かるた.png"/>
+                                                    <state key="normal" title="Button" image="かるた丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="聖光かるた会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HNq-wC-57H" userLabel="seiko karuta club">
                                                     <rect key="frame" x="344" y="90" width="90" height="20"/>
@@ -247,7 +247,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="C2P-Qk-WeX"/>
                                                         <constraint firstAttribute="height" constant="90" id="jAf-Zn-Qau"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="エース.png">
+                                                    <state key="normal" title="Button" image="エース丸型">
                                                         <color key="titleColor" red="0.93973883280000003" green="1" blue="0.84450402469999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     </state>
                                                 </button>
@@ -285,7 +285,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="5k3-gO-nue"/>
                                                         <constraint firstAttribute="width" constant="90" id="yvM-Vb-ZwH"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="交通研究部.png"/>
+                                                    <state key="normal" title="Button" image="交通研究部丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="交通研究部" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bti-gs-Iji" userLabel="koutuukennkyuu club">
                                                     <rect key="frame" x="232" y="90" width="90" height="20"/>
@@ -303,7 +303,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="hQd-Z6-UP7"/>
                                                         <constraint firstAttribute="height" constant="90" id="y8B-xk-ZXS"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="生物部.png"/>
+                                                    <state key="normal" title="Button" image="生物部丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="生物部" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yew-qy-mrO" userLabel="biology club">
                                                     <rect key="frame" x="456" y="90" width="90" height="20"/>
@@ -357,7 +357,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="7AF-4G-5fx"/>
                                                         <constraint firstAttribute="height" constant="90" id="7Cw-YB-hr2"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="地歴.png"/>
+                                                    <state key="normal" title="Button" image="地歴丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="地理・歴史巡見部" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Fad-TW-ZPx" userLabel="geo&amp;history club">
                                                     <rect key="frame" x="792" y="90" width="90" height="20"/>
@@ -375,7 +375,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="RR3-4y-6j5"/>
                                                         <constraint firstAttribute="width" constant="90" id="Yne-xx-fh0"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="ハリー・ポッター研究会.png"/>
+                                                    <state key="normal" title="Button" image="ハリー・ポッター研究会丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ハリー・ポッター研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="puf-iS-94g" userLabel="harry potter club">
                                                     <rect key="frame" x="904" y="90" width="90" height="20"/>
@@ -411,7 +411,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="GYE-Z5-Vjj"/>
                                                         <constraint firstAttribute="width" constant="90" id="Mcm-PD-3uK"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="ポケモンセンターSeiko.png"/>
+                                                    <state key="normal" title="Button" image="ポケモンセンターSeiko丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ポケモンセンターSeiko" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DeQ-Km-cDO">
                                                     <rect key="frame" x="1128" y="90" width="90" height="20"/>
@@ -429,7 +429,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="lL2-kJ-uIs"/>
                                                         <constraint firstAttribute="height" constant="90" id="s74-wF-8e2"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="漫才研究会.png"/>
+                                                    <state key="normal" title="Button" image="漫才研究会丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="漫才処" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uXa-nU-PTw" userLabel="manzaidokoro">
                                                     <rect key="frame" x="1240" y="90" width="90" height="20"/>
@@ -572,7 +572,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="aHD-9l-wYS"/>
                                                         <constraint firstAttribute="height" constant="90" id="qsx-ye-Njn"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="コンピューター.png"/>
+                                                    <state key="normal" title="Button" image="コンピューター丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="コンピューター部" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wQj-LB-yqp" userLabel="computer club">
                                                     <rect key="frame" x="344" y="90" width="90" height="20"/>
@@ -590,7 +590,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="onr-aS-4ga"/>
                                                         <constraint firstAttribute="height" constant="90" id="vw0-fN-uEG"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="人狼の館.png"/>
+                                                    <state key="normal" title="Button" image="人狼の館丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="人狼の館" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="C2m-qC-spF" userLabel="house of jinrou">
                                                     <rect key="frame" x="456" y="90" width="90" height="20"/>
@@ -628,7 +628,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="1sq-bn-PCn"/>
                                                         <constraint firstAttribute="height" constant="90" id="C0R-0p-gfN"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="トリハ.png"/>
+                                                    <state key="normal" title="Button" image="トリハ丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Trick×Hark" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pva-A9-Rkb">
                                                     <rect key="frame" x="680" y="90" width="90" height="20"/>
@@ -646,7 +646,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="LLm-Ce-Epx"/>
                                                         <constraint firstAttribute="width" constant="90" id="pgO-St-PFY"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="ジョーカー.png"/>
+                                                    <state key="normal" title="Button" image="ジョーカー丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="81枚目のJOKER" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="udk-TT-Y3y" userLabel="81th JOKER">
                                                     <rect key="frame" x="793" y="90" width="90" height="20"/>
@@ -664,7 +664,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="1wG-a6-gAd"/>
                                                         <constraint firstAttribute="width" constant="90" id="u4b-g2-7Ju"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="早打ち.png"/>
+                                                    <state key="normal" title="Button" image="早打ち丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="早撃ちジョニー" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="esP-I4-ezz" userLabel="fast-shooting johnny">
                                                     <rect key="frame" x="905" y="90" width="90" height="20"/>
@@ -700,7 +700,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="4pL-Nc-8LA"/>
                                                         <constraint firstAttribute="height" constant="90" id="C1d-Uv-KF4"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="3F アイコン.png"/>
+                                                    <state key="normal" title="Button" image="3F アイコン丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="藤子F不二雄研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ea0-2c-ifs" userLabel="3F club">
                                                     <rect key="frame" x="1129" y="90" width="90" height="20"/>
@@ -754,7 +754,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="3bt-qp-PBS"/>
                                                         <constraint firstAttribute="width" constant="90" id="VUz-w2-daP"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="luxury.png"/>
+                                                    <state key="normal" title="Button" image="luxury丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Luxury" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="loz-6C-AON">
                                                     <rect key="frame" x="1465" y="90" width="90" height="20"/>
@@ -851,7 +851,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="0Tf-k7-eD8"/>
                                                         <constraint firstAttribute="width" constant="90" id="Vyp-ML-Psg"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="駅弁アイコン.png"/>
+                                                    <state key="normal" title="Button" image="駅弁アイコン丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="駅弁販売" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ob9-u3-u63" userLabel="ekiben shop">
                                                     <rect key="frame" x="10" y="90" width="90" height="20"/>
@@ -869,7 +869,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="DOS-Gt-3HW"/>
                                                         <constraint firstAttribute="height" constant="90" id="Vv2-Xb-RlO"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="教室でスポーツ.png"/>
+                                                    <state key="normal" title="Button" image="教室でスポーツ丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="教室でスポーツしようぜ" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8Qm-FH-bJy" userLabel="Let's play sports in the classroom">
                                                     <rect key="frame" x="122" y="90" width="90" height="20"/>
@@ -887,7 +887,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="KBV-op-DTr"/>
                                                         <constraint firstAttribute="height" constant="90" id="XP3-uy-pgo"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="クイズ.png"/>
+                                                    <state key="normal" title="Button" image="クイズ丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="クイズ研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Adx-D5-4pV" userLabel="quiz">
                                                     <rect key="frame" x="234" y="90" width="90" height="20"/>
@@ -959,7 +959,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="8t6-qM-KfW"/>
                                                         <constraint firstAttribute="height" constant="90" id="i2L-NT-TZ5"/>
                                                     </constraints>
-                                                    <state key="normal" title="将棋　ボタン" image="聖光道場.png"/>
+                                                    <state key="normal" title="将棋　ボタン" image="聖光道場丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="聖光道場" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HRS-df-8tH" userLabel="seiko  syogi club">
                                                     <rect key="frame" x="682" y="90" width="90" height="20"/>
@@ -977,7 +977,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="laZ-FP-it3"/>
                                                         <constraint firstAttribute="height" constant="90" id="we7-6b-DeL"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="TRPG同好会.png"/>
+                                                    <state key="normal" title="Button" image="TRPG同好会丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="TRPG同好会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nxa-Th-M2m" userLabel="TRPG club">
                                                     <rect key="frame" x="794" y="90" width="90" height="20"/>
@@ -995,7 +995,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="2kM-w1-wsC"/>
                                                         <constraint firstAttribute="height" constant="90" id="i32-2V-oKR"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="野球研究会.png"/>
+                                                    <state key="normal" title="Button" image="野球研究会丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="プロ野球研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mf6-OD-1Up">
                                                     <rect key="frame" x="904" y="90" width="90" height="20"/>
@@ -1243,6 +1243,9 @@
                                                         <constraint firstAttribute="height" constant="90" id="lUG-LI-8FU"/>
                                                     </constraints>
                                                     <state key="normal" title="Button"/>
+                                                    <connections>
+                                                        <segue destination="4RT-gG-Tgy" kind="presentation" id="bnc-oM-6wR"/>
+                                                    </connections>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Idea &amp; Logic" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VXx-jb-fJk">
                                                     <rect key="frame" x="8" y="90" width="90" height="20"/>
@@ -1278,7 +1281,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="Rea-IT-yWf"/>
                                                         <constraint firstAttribute="width" constant="90" id="cak-1L-cP3"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="エース.png"/>
+                                                    <state key="normal" title="Button" image="エース丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="エースを狙え！" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cu2-rc-Eu4" userLabel="aim to Ace!">
                                                     <rect key="frame" x="232" y="90" width="90" height="20"/>
@@ -1314,7 +1317,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="GJk-zz-JCB"/>
                                                         <constraint firstAttribute="width" constant="90" id="ye4-aq-qRp"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="駅弁アイコン.png"/>
+                                                    <state key="normal" title="Button" image="駅弁アイコン丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="駅弁販売" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="s29-Tq-myU" userLabel="ekiben shop">
                                                     <rect key="frame" x="456" y="90" width="90" height="20"/>
@@ -1370,42 +1373,6 @@
                                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Tut-dD-1Pc">
                                             <rect key="frame" x="0.0" y="0.0" width="792" height="115"/>
                                             <subviews>
-                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Bkm-RP-cVE" userLabel="quiz button">
-                                                    <rect key="frame" x="232" y="0.0" width="90" height="90"/>
-                                                    <constraints>
-                                                        <constraint firstAttribute="width" constant="90" id="bqA-5K-K48"/>
-                                                        <constraint firstAttribute="height" constant="90" id="hKf-HF-Wmg"/>
-                                                    </constraints>
-                                                    <state key="normal" title="Button" image="クイズ.png"/>
-                                                </button>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="クイズ研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TU0-6e-OaE" userLabel="quiz">
-                                                    <rect key="frame" x="232" y="90" width="90" height="20"/>
-                                                    <constraints>
-                                                        <constraint firstAttribute="width" constant="90" id="Awt-xm-XgM"/>
-                                                        <constraint firstAttribute="height" constant="20" id="P6u-e2-G0b"/>
-                                                    </constraints>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
-                                                    <nil key="textColor"/>
-                                                    <nil key="highlightedColor"/>
-                                                </label>
-                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XWw-yk-wRs" userLabel="sports button">
-                                                    <rect key="frame" x="120" y="0.0" width="90" height="90"/>
-                                                    <constraints>
-                                                        <constraint firstAttribute="width" constant="90" id="YdN-om-y3S"/>
-                                                        <constraint firstAttribute="height" constant="90" id="tx1-lz-003"/>
-                                                    </constraints>
-                                                    <state key="normal" title="Button" image="教室でスポーツ.png"/>
-                                                </button>
-                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="教室でスポーツしようぜ" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ojm-N1-Df9" userLabel="Let's play sports in the classroom">
-                                                    <rect key="frame" x="120" y="90" width="90" height="20"/>
-                                                    <constraints>
-                                                        <constraint firstAttribute="width" constant="90" id="68V-1j-HIE"/>
-                                                        <constraint firstAttribute="height" constant="20" id="ehR-6g-vsp"/>
-                                                    </constraints>
-                                                    <fontDescription key="fontDescription" type="system" pointSize="8"/>
-                                                    <nil key="textColor"/>
-                                                    <nil key="highlightedColor"/>
-                                                </label>
                                                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="G7T-Zc-2Ii" userLabel="gyanburu. button">
                                                     <rect key="frame" x="8" y="0.0" width="90" height="90"/>
                                                     <constraints>
@@ -1424,6 +1391,50 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
+                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XWw-yk-wRs" userLabel="sports button">
+                                                    <rect key="frame" x="120" y="0.0" width="90" height="90"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="90" id="YdN-om-y3S"/>
+                                                        <constraint firstAttribute="height" constant="90" id="tx1-lz-003"/>
+                                                    </constraints>
+                                                    <state key="normal" title="Button" image="教室でスポーツ丸型"/>
+                                                </button>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="教室でスポーツしようぜ" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ojm-N1-Df9" userLabel="Let's play sports in the classroom">
+                                                    <rect key="frame" x="120" y="90" width="90" height="20"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="90" id="68V-1j-HIE"/>
+                                                        <constraint firstAttribute="height" constant="20" id="ehR-6g-vsp"/>
+                                                    </constraints>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="8"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Bkm-RP-cVE" userLabel="quiz button">
+                                                    <rect key="frame" x="232" y="0.0" width="90" height="90"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="90" id="bqA-5K-K48"/>
+                                                        <constraint firstAttribute="height" constant="90" id="hKf-HF-Wmg"/>
+                                                    </constraints>
+                                                    <state key="normal" title="Button" image="クイズ丸型"/>
+                                                </button>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="クイズ研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TU0-6e-OaE" userLabel="quiz">
+                                                    <rect key="frame" x="232" y="90" width="90" height="20"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="90" id="Awt-xm-XgM"/>
+                                                        <constraint firstAttribute="height" constant="20" id="P6u-e2-G0b"/>
+                                                    </constraints>
+                                                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                                                    <nil key="textColor"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jzd-ux-hxs" userLabel="gensyaken button">
+                                                    <rect key="frame" x="344" y="0.0" width="90" height="90"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="90" id="Fcs-zF-eA1"/>
+                                                        <constraint firstAttribute="height" constant="90" id="KuC-WW-OFM"/>
+                                                    </constraints>
+                                                    <state key="normal" title="Button"/>
+                                                </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="現代社会研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="osX-GJ-yj8" userLabel="social study club">
                                                     <rect key="frame" x="344" y="90" width="90" height="20"/>
                                                     <constraints>
@@ -1452,21 +1463,13 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Jzd-ux-hxs" userLabel="gensyaken button">
-                                                    <rect key="frame" x="344" y="0.0" width="90" height="90"/>
-                                                    <constraints>
-                                                        <constraint firstAttribute="width" constant="90" id="Fcs-zF-eA1"/>
-                                                        <constraint firstAttribute="height" constant="90" id="KuC-WW-OFM"/>
-                                                    </constraints>
-                                                    <state key="normal" title="Button"/>
-                                                </button>
                                                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ku3-uG-whT" userLabel="kouken button">
                                                     <rect key="frame" x="568" y="0.0" width="90" height="90"/>
                                                     <constraints>
                                                         <constraint firstAttribute="height" constant="90" id="29J-qv-MVX"/>
                                                         <constraint firstAttribute="width" constant="90" id="Soy-wL-Hqu"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="交通研究部.png"/>
+                                                    <state key="normal" title="Button" image="交通研究部丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="交通研究部" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gEf-OY-51M" userLabel="koutuukennkyuu club">
                                                     <rect key="frame" x="568" y="90" width="90" height="20"/>
@@ -1484,7 +1487,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="J1n-CD-syx"/>
                                                         <constraint firstAttribute="height" constant="90" id="SZZ-gu-ued"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="コンピューター.png"/>
+                                                    <state key="normal" title="Button" image="コンピューター丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="コンピューター部" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FrR-85-ukX" userLabel="computer club">
                                                     <rect key="frame" x="680" y="90" width="90" height="20"/>
@@ -1553,7 +1556,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="GVd-Y9-B8a"/>
                                                         <constraint firstAttribute="height" constant="90" id="SOb-KE-Y8m"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="人狼の館.png"/>
+                                                    <state key="normal" title="Button" image="人狼の館丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="人狼の館" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nLb-rE-Ykb" userLabel="house of jinrou">
                                                     <rect key="frame" x="8" y="90" width="90" height="20"/>
@@ -1589,7 +1592,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="FQ9-Vv-Ejg"/>
                                                         <constraint firstAttribute="width" constant="90" id="NDh-dN-nzW"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="かるた.png"/>
+                                                    <state key="normal" title="Button" image="かるた丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="聖光かるた会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fea-Xk-Zsu" userLabel="seiko karuta club">
                                                     <rect key="frame" x="232" y="90" width="90" height="20"/>
@@ -1607,7 +1610,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="DBn-th-AJL"/>
                                                         <constraint firstAttribute="height" constant="90" id="y4V-f0-gaa"/>
                                                     </constraints>
-                                                    <state key="normal" title="将棋　ボタン" image="聖光道場.png"/>
+                                                    <state key="normal" title="将棋　ボタン" image="聖光道場丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="聖光道場" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ejY-Oq-19Z" userLabel="seiko  syogi club">
                                                     <rect key="frame" x="344" y="90" width="90" height="20"/>
@@ -1645,7 +1648,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="ROE-xI-Kel"/>
                                                         <constraint firstAttribute="width" constant="90" id="lDp-RS-qde"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="生物部.png"/>
+                                                    <state key="normal" title="Button" image="生物部丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="生物部" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EPY-QZ-2LH" userLabel="biology club">
                                                     <rect key="frame" x="568" y="90" width="90" height="20"/>
@@ -1746,7 +1749,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="D8x-ve-IRt"/>
                                                         <constraint firstAttribute="width" constant="90" id="yjw-A8-sb8"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="地歴.png"/>
+                                                    <state key="normal" title="Button" image="地歴丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="地理歴史研究部" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vrM-Fc-K0W" userLabel="geo&amp;history club">
                                                     <rect key="frame" x="232" y="90" width="90" height="20"/>
@@ -1764,7 +1767,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="N3H-Rx-rhL"/>
                                                         <constraint firstAttribute="height" constant="90" id="TiR-jq-OFQ"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="TRPG同好会.png"/>
+                                                    <state key="normal" title="Button" image="TRPG同好会丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="TRPG同好会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fwq-C9-2v8" userLabel="TRPG club">
                                                     <rect key="frame" x="344" y="90" width="90" height="20"/>
@@ -1782,7 +1785,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="LHa-AU-rjZ"/>
                                                         <constraint firstAttribute="width" constant="90" id="aO3-2K-LPa"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="トリハ.png"/>
+                                                    <state key="normal" title="Button" image="トリハ丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Trick×Hark" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FfP-Te-idj">
                                                     <rect key="frame" x="456" y="90" width="90" height="20"/>
@@ -1844,7 +1847,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="QvK-gx-Nf1"/>
                                                         <constraint firstAttribute="height" constant="90" id="UE1-7H-13b"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="ジョーカー.png"/>
+                                                    <state key="normal" title="Button" image="ジョーカー丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="81枚目のJOKER" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sI9-Bf-ULd" userLabel="81th JOKER">
                                                     <rect key="frame" x="8" y="90" width="90" height="20"/>
@@ -1862,7 +1865,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="fu5-ac-g2W"/>
                                                         <constraint firstAttribute="width" constant="90" id="gZG-m5-M7V"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="早打ち.png"/>
+                                                    <state key="normal" title="Button" image="早打ち丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="早撃ちジョニー" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yfN-5S-UJV" userLabel="fast-shooting johnny">
                                                     <rect key="frame" x="120" y="90" width="90" height="20"/>
@@ -1880,7 +1883,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="6cx-xF-idp"/>
                                                         <constraint firstAttribute="height" constant="90" id="yIf-Hc-Du0"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="ハリー・ポッター研究会.png"/>
+                                                    <state key="normal" title="Button" image="ハリー・ポッター研究会丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ハリー・ポッター研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ney-em-fXn" userLabel="harry potter club">
                                                     <rect key="frame" x="232" y="90" width="90" height="20"/>
@@ -1934,7 +1937,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="JqA-HS-BfX"/>
                                                         <constraint firstAttribute="width" constant="90" id="Vfg-L1-7Az"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="3F アイコン.png"/>
+                                                    <state key="normal" title="Button" image="3F アイコン丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="藤子F不二雄研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iOG-7f-y3c" userLabel="3F club">
                                                     <rect key="frame" x="568" y="90" width="90" height="20"/>
@@ -1988,7 +1991,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="QuO-as-5OJ"/>
                                                         <constraint firstAttribute="width" constant="90" id="l5b-T3-T1K"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="野球研究会.png"/>
+                                                    <state key="normal" title="Button" image="野球研究会丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="プロ野球研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h4p-lE-KkQ">
                                                     <rect key="frame" x="904" y="90" width="90" height="20"/>
@@ -2024,7 +2027,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="0Fm-5N-L9J"/>
                                                         <constraint firstAttribute="width" constant="90" id="hcc-Vg-RBF"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="ポケモンセンターSeiko.png"/>
+                                                    <state key="normal" title="Button" image="ポケモンセンターSeiko丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="ポケモンセンターSeiko" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="5c0-dj-4AW">
                                                     <rect key="frame" x="1128" y="90" width="90" height="20"/>
@@ -2128,7 +2131,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="CSW-1r-Cvf"/>
                                                         <constraint firstAttribute="height" constant="90" id="I7V-WJ-JWs"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="漫才研究会.png"/>
+                                                    <state key="normal" title="Button" image="漫才研究会丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="漫才研究会" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h5u-mo-Y9p" userLabel="manzaidokoro">
                                                     <rect key="frame" x="120" y="90" width="90" height="20"/>
@@ -2221,7 +2224,7 @@
                                                         <constraint firstAttribute="width" constant="90" id="0U3-9C-sdH"/>
                                                         <constraint firstAttribute="height" constant="90" id="oVw-Kw-mMh"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="luxury.png"/>
+                                                    <state key="normal" title="Button" image="luxury丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Luxury" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wIK-QH-ypz">
                                                     <rect key="frame" x="8" y="90" width="90" height="20"/>
@@ -2257,7 +2260,7 @@
                                                         <constraint firstAttribute="height" constant="90" id="00h-5d-02S"/>
                                                         <constraint firstAttribute="width" constant="90" id="t2v-vT-Xht"/>
                                                     </constraints>
-                                                    <state key="normal" title="Button" image="野球盤.png"/>
+                                                    <state key="normal" title="Button" image="野球盤丸型"/>
                                                 </button>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="リアル野球盤" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OMT-G4-vtm" userLabel="real baseball ">
                                                     <rect key="frame" x="232" y="90" width="90" height="20"/>
@@ -2367,7 +2370,7 @@
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
-                                    <segue destination="l5I-fS-H9C" kind="show" id="shD-E2-OvD"/>
+                                    <segue destination="l5I-fS-H9C" kind="show" identifier="searchresult" id="shD-E2-OvD"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LJP-ok-TPZ">
@@ -2498,21 +2501,14 @@
             </objects>
             <point key="canvasLocation" x="3718" y="856"/>
         </scene>
-        <!--View Controller-->
+        <!--団体紹介-->
         <scene sceneID="5MQ-Xg-eSy">
             <objects>
-                <viewController id="4RT-gG-Tgy" sceneMemberID="viewController">
+                <viewController id="4RT-gG-Tgy" userLabel="団体紹介" customClass="ExibitionIntroductionViewController" customModule="SeikoFesta60th" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="enK-uY-ahi">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="v9Q-iE-EAf">
-                                <rect key="frame" x="107.5" y="20" width="160" height="160"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="160" id="0nv-9J-PQW"/>
-                                    <constraint firstAttribute="width" constant="160" id="FuA-n0-gU3"/>
-                                </constraints>
-                            </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IG8-j6-Glc">
                                 <rect key="frame" x="0.0" y="188" width="375" height="40"/>
                                 <constraints>
@@ -2523,26 +2519,75 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <segmentedControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="k79-dK-Jtq">
-                                <rect key="frame" x="52" y="236" width="272" height="29"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="k79-dK-Jtq">
+                                <rect key="frame" x="37.5" y="236" width="300" height="31"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="30" id="Crm-Mp-fT4"/>
+                                    <constraint firstAttribute="width" constant="300" id="syG-NN-yi4"/>
+                                </constraints>
                                 <segments>
                                     <segment title="紹介"/>
                                     <segment title="地図"/>
                                 </segments>
+                                <connections>
+                                    <action selector="mapsyokaichange:" destination="4RT-gG-Tgy" eventType="valueChanged" id="rYW-lN-7Mc"/>
+                                </connections>
                             </segmentedControl>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wMX-6N-ut1">
+                                <rect key="frame" x="16" y="20" width="72" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="40" id="UNJ-pE-4Nf"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="24"/>
+                                <state key="normal" title="戻る"/>
+                                <connections>
+                                    <segue destination="tus-H3-Jn2" kind="unwind" unwindAction="comeHomeWithSegue:" id="CyM-a5-O9B"/>
+                                </connections>
+                            </button>
+                            <containerView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="oxa-wG-aiQ">
+                                <rect key="frame" x="38" y="274" width="300" height="350"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <connections>
+                                    <segue destination="qTy-nv-Xb6" kind="embed" id="J1a-ao-lCF"/>
+                                </connections>
+                            </containerView>
+                            <containerView opaque="NO" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="QIr-7K-3aI">
+                                <rect key="frame" x="38" y="274" width="300" height="350"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <connections>
+                                    <segue destination="rse-7I-Bay" kind="embed" id="5KN-RW-iGs"/>
+                                </connections>
+                            </containerView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="D2h-oU-MiZ">
+                                <rect key="frame" x="118" y="40" width="140" height="140"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="140" id="E1W-e0-80c"/>
+                                    <constraint firstAttribute="height" constant="140" id="Wv6-2v-Bqq"/>
+                                </constraints>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" white="0.94999999999999996" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="v9Q-iE-EAf" firstAttribute="top" secondItem="qTK-ZB-Ihq" secondAttribute="top" id="9Y6-xb-zdH"/>
+                            <constraint firstItem="wMX-6N-ut1" firstAttribute="leading" secondItem="enK-uY-ahi" secondAttribute="leadingMargin" id="8aN-ms-vpI"/>
                             <constraint firstItem="IG8-j6-Glc" firstAttribute="leading" secondItem="qTK-ZB-Ihq" secondAttribute="leading" id="D4W-Na-wnq"/>
-                            <constraint firstItem="IG8-j6-Glc" firstAttribute="top" secondItem="v9Q-iE-EAf" secondAttribute="bottom" constant="8" id="X6V-OS-fYj"/>
-                            <constraint firstItem="v9Q-iE-EAf" firstAttribute="centerX" secondItem="enK-uY-ahi" secondAttribute="centerX" id="bqJ-mv-aWu"/>
+                            <constraint firstItem="k79-dK-Jtq" firstAttribute="centerX" secondItem="enK-uY-ahi" secondAttribute="centerX" id="HA9-N5-FZO"/>
+                            <constraint firstItem="IG8-j6-Glc" firstAttribute="top" secondItem="D2h-oU-MiZ" secondAttribute="bottom" constant="8" id="HCu-CI-uMg"/>
+                            <constraint firstItem="wMX-6N-ut1" firstAttribute="top" secondItem="qTK-ZB-Ihq" secondAttribute="top" id="RGe-WE-KjS"/>
+                            <constraint firstItem="k79-dK-Jtq" firstAttribute="top" secondItem="IG8-j6-Glc" secondAttribute="bottom" constant="8" id="SSc-jO-JG4"/>
+                            <constraint firstItem="D2h-oU-MiZ" firstAttribute="top" secondItem="qTK-ZB-Ihq" secondAttribute="top" constant="20" id="ddp-mH-ox3"/>
+                            <constraint firstItem="D2h-oU-MiZ" firstAttribute="leading" secondItem="enK-uY-ahi" secondAttribute="leadingMargin" constant="102" id="fvL-OL-UCO"/>
+                            <constraint firstItem="qTK-ZB-Ihq" firstAttribute="trailing" secondItem="wMX-6N-ut1" secondAttribute="trailing" constant="287" id="zCj-2s-WDI"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="qTK-ZB-Ihq"/>
                     </view>
+                    <connections>
+                        <outlet property="changer" destination="enK-uY-ahi" id="PLm-u2-gq0"/>
+                        <outlet property="intro" destination="oxa-wG-aiQ" id="xPD-qb-Glw"/>
+                        <outlet property="map" destination="QIr-7K-3aI" id="JWO-ah-8QY"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Omu-1f-bnS" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <exit id="tus-H3-Jn2" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
             <point key="canvasLocation" x="3794.4000000000001" y="69.715142428785612"/>
         </scene>
@@ -2573,29 +2618,103 @@
             </objects>
             <point key="canvasLocation" x="2055.1999999999998" y="69.715142428785612"/>
         </scene>
+        <!--Exibition Shoukai View Controller-->
+        <scene sceneID="n3d-n9-MNz">
+            <objects>
+                <viewController id="qTy-nv-Xb6" customClass="ExibitionShoukaiViewController" customModule="SeikoFesta60th" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="nXS-aD-Nt0">
+                        <rect key="frame" x="0.0" y="0.0" width="300" height="350"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cyX-Y9-VKb">
+                                <rect key="frame" x="0.0" y="0.0" width="300" height="350"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="OZI-gj-its"/>
+                                    <constraint firstAttribute="height" constant="350" id="Su3-bm-dAO"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.94999999999999996" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="cyX-Y9-VKb" firstAttribute="leading" secondItem="nXS-aD-Nt0" secondAttribute="leading" id="Tb5-24-Sad"/>
+                            <constraint firstAttribute="bottom" secondItem="cyX-Y9-VKb" secondAttribute="bottom" id="iAE-Pj-5JM"/>
+                            <constraint firstAttribute="trailing" secondItem="cyX-Y9-VKb" secondAttribute="trailing" id="nLj-6h-pyF"/>
+                            <constraint firstItem="cyX-Y9-VKb" firstAttribute="top" secondItem="nXS-aD-Nt0" secondAttribute="top" id="zXx-RW-1a3"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="WXD-at-vJe" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4488" y="-104.34782608695653"/>
+        </scene>
+        <!--Exibition Map View Controller-->
+        <scene sceneID="fee-3Y-l33">
+            <objects>
+                <viewController id="rse-7I-Bay" customClass="ExibitionMapViewController" customModule="SeikoFesta60th" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="qze-gn-sn9">
+                        <rect key="frame" x="0.0" y="0.0" width="300" height="350"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zpL-b4-yjx">
+                                <rect key="frame" x="0.0" y="0.0" width="300" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="90B-cO-X3i"/>
+                                    <constraint firstAttribute="height" constant="50" id="Bip-Ms-HQm"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="kX3-RL-VS4">
+                                <rect key="frame" x="0.0" y="50" width="300" height="300"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="0a2-GM-f5r"/>
+                                    <constraint firstAttribute="height" constant="300" id="tFB-qj-CbY"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="0.94999999999999996" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="kX3-RL-VS4" firstAttribute="top" secondItem="zpL-b4-yjx" secondAttribute="bottom" id="7fs-pL-nhY"/>
+                            <constraint firstAttribute="bottom" secondItem="kX3-RL-VS4" secondAttribute="bottom" id="LDn-Vw-weP"/>
+                            <constraint firstItem="zpL-b4-yjx" firstAttribute="leading" secondItem="qze-gn-sn9" secondAttribute="leading" id="f7b-vN-5zD"/>
+                            <constraint firstItem="kX3-RL-VS4" firstAttribute="leading" secondItem="qze-gn-sn9" secondAttribute="leading" id="fhi-Oz-qvw"/>
+                            <constraint firstAttribute="trailing" secondItem="kX3-RL-VS4" secondAttribute="trailing" id="oOe-LQ-zYs"/>
+                            <constraint firstAttribute="trailing" secondItem="zpL-b4-yjx" secondAttribute="trailing" id="pJ2-L5-QM1"/>
+                            <constraint firstItem="zpL-b4-yjx" firstAttribute="top" secondItem="qze-gn-sn9" secondAttribute="top" id="tc5-vs-tKr"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="U5E-VJ-pU5" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="4488" y="280.65967016491754"/>
+        </scene>
     </scenes>
     <resources>
-        <image name="3F アイコン.png" width="503" height="507"/>
-        <image name="TRPG同好会.png" width="911" height="910"/>
-        <image name="luxury.png" width="550" height="548"/>
-        <image name="かるた.png" width="2041" height="2041"/>
-        <image name="エース.png" width="999" height="996"/>
-        <image name="クイズ.png" width="1358" height="1361"/>
-        <image name="コンピューター.png" width="198" height="192"/>
-        <image name="ジョーカー.png" width="1022" height="1024"/>
-        <image name="トリハ.png" width="974" height="974"/>
-        <image name="ハリー・ポッター研究会.png" width="389" height="389"/>
-        <image name="ポケモンセンターSeiko.png" width="398" height="399"/>
-        <image name="交通研究部.png" width="3392" height="3387"/>
-        <image name="人狼の館.png" width="736" height="754"/>
-        <image name="地歴.png" width="509" height="510"/>
-        <image name="教室でスポーツ.png" width="1342" height="1343"/>
-        <image name="早打ち.png" width="1292" height="1296"/>
-        <image name="漫才研究会.png" width="734" height="734"/>
-        <image name="生物部.png" width="1664" height="1668"/>
-        <image name="聖光道場.png" width="940" height="1033"/>
-        <image name="野球盤.png" width="408" height="408"/>
-        <image name="野球研究会.png" width="737" height="732"/>
-        <image name="駅弁アイコン.png" width="1494" height="1496"/>
+        <image name="3F アイコン丸型" width="503" height="507"/>
+        <image name="TRPG同好会丸型" width="911" height="910"/>
+        <image name="luxury丸型" width="550" height="548"/>
+        <image name="かるた丸型" width="2041" height="2041"/>
+        <image name="エース丸型" width="999" height="996"/>
+        <image name="クイズ丸型" width="1358" height="1361"/>
+        <image name="コンピューター丸型" width="198" height="192"/>
+        <image name="ジョーカー丸型" width="1022" height="1024"/>
+        <image name="トリハ丸型" width="974" height="974"/>
+        <image name="ハリー・ポッター研究会丸型" width="389" height="389"/>
+        <image name="ポケモンセンターSeiko丸型" width="398" height="399"/>
+        <image name="交通研究部丸型" width="3392" height="3387"/>
+        <image name="人狼の館丸型" width="736" height="754"/>
+        <image name="地歴丸型" width="509" height="510"/>
+        <image name="教室でスポーツ丸型" width="1342" height="1343"/>
+        <image name="早打ち丸型" width="310.07998657226562" height="311"/>
+        <image name="漫才研究会丸型" width="734" height="734"/>
+        <image name="生物部丸型" width="1664" height="1668"/>
+        <image name="聖光道場丸型" width="940" height="1033"/>
+        <image name="野球盤丸型" width="97.919998168945312" height="97.919998168945312"/>
+        <image name="野球研究会丸型" width="737" height="732"/>
+        <image name="駅弁アイコン丸型" width="358.55999755859375" height="359"/>
     </resources>
 </document>

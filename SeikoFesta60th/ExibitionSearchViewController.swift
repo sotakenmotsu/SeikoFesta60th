@@ -21,7 +21,7 @@ class ExibitionSearchViewController: UIViewController, UIPickerViewDelegate, UIP
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        //テキストフィールドとピッカービューを組み合わせる
         floorselect.delegate = self
         floorselect.dataSource = self
         floorselect.showsSelectionIndicator = true
@@ -59,6 +59,16 @@ class ExibitionSearchViewController: UIViewController, UIPickerViewDelegate, UIP
         floorselect.numberOfRows(inComponent: 0)
         touselect.numberOfRows(inComponent: 0)
         kategoriselect.numberOfRows(inComponent: 0)
+    }
+    override func prepare( for segue: UIStoryboardSegue, sender: Any!) {
+        //検索結果を表示するビューに値を引き渡す
+        if segue.identifier == "searchresult" {
+            
+            let secondViewController:ExibitionResultViewController = segue.destination as! ExibitionResultViewController
+                secondViewController.sendText = self.Floorsearch.text
+                secondViewController.sendText2 = self.tousearch.text
+                secondViewController.sendText3 = self.kategorisearch.text
+        }
     }
     func numberOfComponents(in pickerView: UIPickerView) -> Int {
         return 1
