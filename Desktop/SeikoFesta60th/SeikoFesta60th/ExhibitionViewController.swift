@@ -28,8 +28,7 @@ class ExhibitionViewController: UIViewController {
         self.view.addSubview(Floor)
     }
     
-    override func didReceiveMemoryWarning() {
-    }
+    
    //以下切り替えの定義
     func addFloor() {
         Aiueo.removeFromSuperview()
