@@ -27,7 +27,8 @@ class ExhibitionViewController: UIViewController {
         //デフォルトの表示
         self.view.addSubview(Floor)
     }
-    
+    override func didReceiveMemoryWarning() {
+    }
     
    //以下切り替えの定義
     func addFloor() {
